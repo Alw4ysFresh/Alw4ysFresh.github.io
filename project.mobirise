@@ -104,7 +104,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mactox86-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mactox86-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -115,9 +115,10 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "Home.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
@@ -413,7 +414,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mactox86-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mactox86-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -424,7 +425,7 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "Home.html",
               "size": 0,
               "newWindow": false
             }
