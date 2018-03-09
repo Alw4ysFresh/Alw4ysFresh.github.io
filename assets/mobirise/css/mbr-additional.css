@@ -476,7 +476,7 @@ h6,
 }
 #menu-b .link[aria-expanded="true"],
 #menu-b .dropdown-item[aria-expanded="true"] {
-  color: #000000 !important;
+  color: #000000!important;
 }
 #content5-c .mbr-section-title,
 #content5-c p {
@@ -557,5 +557,5 @@ h6,
 }
 #menu-b .link[aria-expanded="true"],
 #menu-b .dropdown-item[aria-expanded="true"] {
-  color: #000000 !important;
+  color: #000000!important;
 }
