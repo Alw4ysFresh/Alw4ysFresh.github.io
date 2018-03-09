@@ -315,8 +315,8 @@
           "_styles": {
             ".mbr-section-lead": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-lead B": {
               "color": "#ffffff"
