@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
@@ -7,9 +8,9 @@
 }
 #dropdown-menu-5 .nav .link,
 #dropdown-menu-5 .dropdown-item {
-  font-size: 0.8em;
+  font-size: 1.2em;
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 #dropdown-menu-5 .navbar,
 #dropdown-menu-5 .dropdown-menu {
